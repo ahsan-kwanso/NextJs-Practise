@@ -1,0 +1,4 @@
+Will add typeorm entities here
+Define the connection here
+Although db is connected but will not run migrations currently
+I just want separate services so introducing this for more customizable logic and practice
